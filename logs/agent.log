@@ -1,0 +1,821 @@
+METRICS: {'cpu': 68, 'ram': 90, 'requests_per_sec': 766, 'latency_ms': 57}
+METRICS: {'cpu': 84, 'ram': 47, 'requests_per_sec': 191, 'latency_ms': 260}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 3}
+METRICS: {'cpu': 28, 'ram': 68, 'requests_per_sec': 93, 'latency_ms': 206}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 2}
+METRICS: {'cpu': 74, 'ram': 73, 'requests_per_sec': 634, 'latency_ms': 371}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 3}
+METRICS: {'cpu': 75, 'ram': 61, 'requests_per_sec': 232, 'latency_ms': 96}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 27, 'ram': 54, 'requests_per_sec': 719, 'latency_ms': 328}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 4}
+METRICS: {'cpu': 78, 'ram': 44, 'requests_per_sec': 23, 'latency_ms': 213}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 59, 'ram': 89, 'requests_per_sec': 646, 'latency_ms': 270}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 50, 'ram': 78, 'requests_per_sec': 610, 'latency_ms': 159}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 39, 'ram': 28, 'requests_per_sec': 320, 'latency_ms': 117}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 33, 'ram': 41, 'requests_per_sec': 666, 'latency_ms': 263}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 45, 'ram': 32, 'requests_per_sec': 116, 'latency_ms': 60}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 95, 'ram': 48, 'requests_per_sec': 772, 'latency_ms': 117}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 5}
+METRICS: {'cpu': 14, 'ram': 63, 'requests_per_sec': 469, 'latency_ms': 68}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 78, 'ram': 88, 'requests_per_sec': 410, 'latency_ms': 53}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 36, 'ram': 39, 'requests_per_sec': 645, 'latency_ms': 313}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 28}
+METRICS: {'cpu': 69, 'ram': 89, 'requests_per_sec': 598, 'latency_ms': 121}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 40, 'ram': 82, 'requests_per_sec': 201, 'latency_ms': 381}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 29}
+METRICS: {'cpu': 22, 'ram': 64, 'requests_per_sec': 548, 'latency_ms': 217}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 79, 'ram': 83, 'requests_per_sec': 714, 'latency_ms': 394}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 30}
+METRICS: {'cpu': 41, 'ram': 39, 'requests_per_sec': 298, 'latency_ms': 290}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 58, 'ram': 75, 'requests_per_sec': 70, 'latency_ms': 192}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 35, 'ram': 90, 'requests_per_sec': 399, 'latency_ms': 319}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 31}
+METRICS: {'cpu': 39, 'ram': 36, 'requests_per_sec': 662, 'latency_ms': 338}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 32}
+METRICS: {'cpu': 93, 'ram': 45, 'requests_per_sec': 219, 'latency_ms': 364}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 33}
+METRICS: {'cpu': 63, 'ram': 29, 'requests_per_sec': 617, 'latency_ms': 71}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 94, 'ram': 63, 'requests_per_sec': 548, 'latency_ms': 390}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 34}
+METRICS: {'cpu': 71, 'ram': 41, 'requests_per_sec': 550, 'latency_ms': 134}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 64, 'ram': 65, 'requests_per_sec': 489, 'latency_ms': 343}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 35}
+METRICS: {'cpu': 34, 'ram': 42, 'requests_per_sec': 638, 'latency_ms': 167}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 10, 'ram': 42, 'requests_per_sec': 509, 'latency_ms': 82}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 30, 'ram': 84, 'requests_per_sec': 688, 'latency_ms': 181}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 16, 'ram': 48, 'requests_per_sec': 704, 'latency_ms': 371}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 36}
+METRICS: {'cpu': 36, 'ram': 50, 'requests_per_sec': 792, 'latency_ms': 310}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 37}
+METRICS: {'cpu': 45, 'ram': 55, 'requests_per_sec': 46, 'latency_ms': 161}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 39, 'ram': 57, 'requests_per_sec': 314, 'latency_ms': 266}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 45, 'ram': 35, 'requests_per_sec': 34, 'latency_ms': 233}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 60, 'ram': 24, 'requests_per_sec': 556, 'latency_ms': 359}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 38}
+METRICS: {'cpu': 74, 'ram': 71, 'requests_per_sec': 126, 'latency_ms': 250}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 17, 'ram': 64, 'requests_per_sec': 284, 'latency_ms': 234}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 95, 'ram': 89, 'requests_per_sec': 536, 'latency_ms': 120}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 39}
+METRICS: {'cpu': 13, 'ram': 35, 'requests_per_sec': 30, 'latency_ms': 268}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 38}
+METRICS: {'cpu': 17, 'ram': 32, 'requests_per_sec': 640, 'latency_ms': 397}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 39}
+METRICS: {'cpu': 39, 'ram': 27, 'requests_per_sec': 160, 'latency_ms': 138}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 85, 'ram': 51, 'requests_per_sec': 694, 'latency_ms': 75}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 40}
+METRICS: {'cpu': 51, 'ram': 23, 'requests_per_sec': 790, 'latency_ms': 254}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 63, 'ram': 42, 'requests_per_sec': 753, 'latency_ms': 323}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 41}
+METRICS: {'cpu': 20, 'ram': 59, 'requests_per_sec': 485, 'latency_ms': 130}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 73, 'ram': 70, 'requests_per_sec': 364, 'latency_ms': 399}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 42}
+METRICS: {'cpu': 45, 'ram': 23, 'requests_per_sec': 624, 'latency_ms': 159}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 59, 'ram': 30, 'requests_per_sec': 684, 'latency_ms': 352}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 43}
+METRICS: {'cpu': 34, 'ram': 39, 'requests_per_sec': 514, 'latency_ms': 328}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 44}
+METRICS: {'cpu': 23, 'ram': 70, 'requests_per_sec': 469, 'latency_ms': 225}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 14, 'ram': 45, 'requests_per_sec': 421, 'latency_ms': 53}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 76, 'ram': 52, 'requests_per_sec': 751, 'latency_ms': 320}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 45}
+METRICS: {'cpu': 63, 'ram': 64, 'requests_per_sec': 546, 'latency_ms': 83}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 27, 'ram': 27, 'requests_per_sec': 720, 'latency_ms': 136}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 40, 'ram': 52, 'requests_per_sec': 18, 'latency_ms': 141}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 87, 'ram': 89, 'requests_per_sec': 345, 'latency_ms': 89}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 46}
+METRICS: {'cpu': 57, 'ram': 74, 'requests_per_sec': 350, 'latency_ms': 107}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 52, 'ram': 77, 'requests_per_sec': 591, 'latency_ms': 286}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 23, 'ram': 74, 'requests_per_sec': 770, 'latency_ms': 158}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 89, 'ram': 38, 'requests_per_sec': 495, 'latency_ms': 311}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 47}
+METRICS: {'cpu': 58, 'ram': 29, 'requests_per_sec': 541, 'latency_ms': 302}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 48}
+METRICS: {'cpu': 43, 'ram': 30, 'requests_per_sec': 45, 'latency_ms': 217}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 16, 'ram': 72, 'requests_per_sec': 555, 'latency_ms': 279}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 74, 'ram': 84, 'requests_per_sec': 74, 'latency_ms': 353}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 49}
+METRICS: {'cpu': 24, 'ram': 74, 'requests_per_sec': 354, 'latency_ms': 122}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 11, 'ram': 40, 'requests_per_sec': 156, 'latency_ms': 320}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 50}
+METRICS: {'cpu': 34, 'ram': 60, 'requests_per_sec': 547, 'latency_ms': 142}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 58, 'ram': 83, 'requests_per_sec': 280, 'latency_ms': 201}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 25, 'ram': 31, 'requests_per_sec': 369, 'latency_ms': 293}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 92, 'ram': 82, 'requests_per_sec': 228, 'latency_ms': 79}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 51}
+METRICS: {'cpu': 22, 'ram': 65, 'requests_per_sec': 504, 'latency_ms': 206}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 29, 'ram': 26, 'requests_per_sec': 97, 'latency_ms': 312}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 52}
+METRICS: {'cpu': 76, 'ram': 60, 'requests_per_sec': 480, 'latency_ms': 346}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 53}
+METRICS: {'cpu': 76, 'ram': 68, 'requests_per_sec': 18, 'latency_ms': 379}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 54}
+METRICS: {'cpu': 40, 'ram': 53, 'requests_per_sec': 491, 'latency_ms': 257}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 16, 'ram': 69, 'requests_per_sec': 356, 'latency_ms': 70}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 49, 'ram': 43, 'requests_per_sec': 403, 'latency_ms': 366}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 55}
+METRICS: {'cpu': 46, 'ram': 33, 'requests_per_sec': 398, 'latency_ms': 108}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 91, 'ram': 29, 'requests_per_sec': 280, 'latency_ms': 92}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 56}
+METRICS: {'cpu': 23, 'ram': 76, 'requests_per_sec': 118, 'latency_ms': 63}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 64, 'ram': 47, 'requests_per_sec': 437, 'latency_ms': 126}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 84, 'ram': 73, 'requests_per_sec': 536, 'latency_ms': 232}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 57}
+METRICS: {'cpu': 53, 'ram': 29, 'requests_per_sec': 217, 'latency_ms': 294}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 18, 'ram': 62, 'requests_per_sec': 525, 'latency_ms': 349}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 58}
+METRICS: {'cpu': 70, 'ram': 39, 'requests_per_sec': 344, 'latency_ms': 172}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 88, 'ram': 36, 'requests_per_sec': 25, 'latency_ms': 74}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 59}
+METRICS: {'cpu': 93, 'ram': 32, 'requests_per_sec': 262, 'latency_ms': 147}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 60}
+METRICS: {'cpu': 29, 'ram': 26, 'requests_per_sec': 703, 'latency_ms': 393}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 61}
+METRICS: {'cpu': 21, 'ram': 41, 'requests_per_sec': 356, 'latency_ms': 147}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 64, 'ram': 44, 'requests_per_sec': 293, 'latency_ms': 271}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 23, 'ram': 20, 'requests_per_sec': 676, 'latency_ms': 296}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 60, 'ram': 50, 'requests_per_sec': 706, 'latency_ms': 323}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 62}
+METRICS: {'cpu': 57, 'ram': 43, 'requests_per_sec': 797, 'latency_ms': 106}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 24, 'ram': 34, 'requests_per_sec': 585, 'latency_ms': 362}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 63}
+METRICS: {'cpu': 31, 'ram': 50, 'requests_per_sec': 382, 'latency_ms': 120}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 67, 'ram': 89, 'requests_per_sec': 322, 'latency_ms': 245}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 83, 'ram': 54, 'requests_per_sec': 139, 'latency_ms': 115}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 64}
+METRICS: {'cpu': 61, 'ram': 75, 'requests_per_sec': 655, 'latency_ms': 399}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 65}
+METRICS: {'cpu': 68, 'ram': 50, 'requests_per_sec': 514, 'latency_ms': 189}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 18, 'ram': 42, 'requests_per_sec': 148, 'latency_ms': 195}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 60, 'ram': 77, 'requests_per_sec': 539, 'latency_ms': 116}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 22, 'ram': 37, 'requests_per_sec': 92, 'latency_ms': 219}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 64}
+METRICS: {'cpu': 90, 'ram': 31, 'requests_per_sec': 619, 'latency_ms': 395}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 65}
+METRICS: {'cpu': 94, 'ram': 55, 'requests_per_sec': 225, 'latency_ms': 146}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 66}
+METRICS: {'cpu': 71, 'ram': 66, 'requests_per_sec': 387, 'latency_ms': 76}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 31, 'ram': 51, 'requests_per_sec': 402, 'latency_ms': 191}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 20, 'ram': 77, 'requests_per_sec': 39, 'latency_ms': 81}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 65}
+METRICS: {'cpu': 42, 'ram': 27, 'requests_per_sec': 521, 'latency_ms': 153}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 80, 'ram': 78, 'requests_per_sec': 48, 'latency_ms': 357}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 66}
+METRICS: {'cpu': 33, 'ram': 47, 'requests_per_sec': 111, 'latency_ms': 319}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 67}
+METRICS: {'cpu': 91, 'ram': 50, 'requests_per_sec': 275, 'latency_ms': 106}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 68}
+METRICS: {'cpu': 10, 'ram': 55, 'requests_per_sec': 31, 'latency_ms': 342}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 69}
+METRICS: {'cpu': 93, 'ram': 70, 'requests_per_sec': 719, 'latency_ms': 356}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 70}
+METRICS: {'cpu': 81, 'ram': 77, 'requests_per_sec': 159, 'latency_ms': 106}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 53, 'ram': 34, 'requests_per_sec': 588, 'latency_ms': 394}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 71}
+METRICS: {'cpu': 34, 'ram': 24, 'requests_per_sec': 82, 'latency_ms': 114}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 80, 'ram': 35, 'requests_per_sec': 131, 'latency_ms': 57}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 35, 'ram': 73, 'requests_per_sec': 561, 'latency_ms': 385}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 72}
+METRICS: {'cpu': 68, 'ram': 65, 'requests_per_sec': 767, 'latency_ms': 281}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 46, 'ram': 53, 'requests_per_sec': 519, 'latency_ms': 51}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 34, 'ram': 32, 'requests_per_sec': 779, 'latency_ms': 108}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 68, 'ram': 72, 'requests_per_sec': 293, 'latency_ms': 218}
+METRICS: {'cpu': 45, 'ram': 82, 'requests_per_sec': 618, 'latency_ms': 224}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 91, 'ram': 51, 'requests_per_sec': 647, 'latency_ms': 233}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 73}
+METRICS: {'cpu': 50, 'ram': 57, 'requests_per_sec': 461, 'latency_ms': 70}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 18, 'ram': 60, 'requests_per_sec': 730, 'latency_ms': 186}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 30, 'ram': 82, 'requests_per_sec': 477, 'latency_ms': 338}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 74}
+METRICS: {'cpu': 77, 'ram': 45, 'requests_per_sec': 393, 'latency_ms': 380}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 75}
+METRICS: {'cpu': 61, 'ram': 51, 'requests_per_sec': 491, 'latency_ms': 396}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 76}
+METRICS: {'cpu': 80, 'ram': 80, 'requests_per_sec': 335, 'latency_ms': 295}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 73, 'ram': 21, 'requests_per_sec': 329, 'latency_ms': 83}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 26, 'ram': 66, 'requests_per_sec': 101, 'latency_ms': 69}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 70, 'ram': 57, 'requests_per_sec': 131, 'latency_ms': 125}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 91, 'ram': 81, 'requests_per_sec': 218, 'latency_ms': 131}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 77}
+METRICS: {'cpu': 15, 'ram': 52, 'requests_per_sec': 99, 'latency_ms': 251}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 76}
+METRICS: {'cpu': 44, 'ram': 27, 'requests_per_sec': 595, 'latency_ms': 253}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 90, 'ram': 80, 'requests_per_sec': 636, 'latency_ms': 232}
+PROM METRICS: {'cpu': 56.0, 'ram': 43.0, 'requests_per_sec': 635.0, 'latency_ms': 281.0}
+DECISION: none
+PROM METRICS: {'cpu': 72.0, 'ram': 30.0, 'requests_per_sec': 100.0, 'latency_ms': 331.0}
+DECISION: up
+PROM METRICS: {'cpu': 74.0, 'ram': 68.0, 'requests_per_sec': 394.0, 'latency_ms': 277.0}
+DECISION: none
+PROM METRICS: {'cpu': 62.0, 'ram': 58.0, 'requests_per_sec': 430.0, 'latency_ms': 180.0}
+DECISION: none
+PROM METRICS: {'cpu': 80.0, 'ram': 83.0, 'requests_per_sec': 175.0, 'latency_ms': 355.0}
+DECISION: up
+PROM METRICS: {'cpu': 68.0, 'ram': 40.0, 'requests_per_sec': 340.0, 'latency_ms': 76.0}
+DECISION: none
+PROM METRICS: {'cpu': 33.0, 'ram': 74.0, 'requests_per_sec': 493.0, 'latency_ms': 357.0}
+DECISION: up
+PROM METRICS: {'cpu': 64.0, 'ram': 68.0, 'requests_per_sec': 321.0, 'latency_ms': 98.0}
+DECISION: none
+PROM METRICS: {'cpu': 13.0, 'ram': 20.0, 'requests_per_sec': 33.0, 'latency_ms': 100.0}
+DECISION: down
+PROM METRICS: {'cpu': 83.0, 'ram': 82.0, 'requests_per_sec': 89.0, 'latency_ms': 318.0}
+DECISION: up
+PROM METRICS: {'cpu': 38.0, 'ram': 74.0, 'requests_per_sec': 386.0, 'latency_ms': 255.0}
+DECISION: none
+PROM METRICS: {'cpu': 52.0, 'ram': 30.0, 'requests_per_sec': 100.0, 'latency_ms': 164.0}
+DECISION: none
+PROM METRICS: {'cpu': 10.0, 'ram': 58.0, 'requests_per_sec': 112.0, 'latency_ms': 123.0}
+DECISION: none
+PROM METRICS: {'cpu': 68.0, 'ram': 21.0, 'requests_per_sec': 148.0, 'latency_ms': 95.0}
+DECISION: none
+PROM METRICS: {'cpu': 40.0, 'ram': 67.0, 'requests_per_sec': 701.0, 'latency_ms': 125.0}
+DECISION: none
+PROM METRICS: {'cpu': 43.0, 'ram': 58.0, 'requests_per_sec': 752.0, 'latency_ms': 283.0}
+DECISION: none
+PROM METRICS: {'cpu': 26.0, 'ram': 81.0, 'requests_per_sec': 348.0, 'latency_ms': 145.0}
+DECISION: none
+PROM METRICS: {'cpu': 10.0, 'ram': 37.0, 'requests_per_sec': 469.0, 'latency_ms': 261.0}
+DECISION: none
+PROM METRICS: {'cpu': 19.0, 'ram': 24.0, 'requests_per_sec': 529.0, 'latency_ms': 182.0}
+METRICS: {'cpu': 27, 'ram': 89, 'requests_per_sec': 505, 'latency_ms': 214}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 64, 'ram': 43, 'requests_per_sec': 674, 'latency_ms': 175}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 33, 'ram': 69, 'requests_per_sec': 676, 'latency_ms': 365}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 58}
+METRICS: {'cpu': 70, 'ram': 85, 'requests_per_sec': 427, 'latency_ms': 125}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 44, 'ram': 46, 'requests_per_sec': 432, 'latency_ms': 161}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 47, 'ram': 50, 'requests_per_sec': 629, 'latency_ms': 123}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 24, 'ram': 30, 'requests_per_sec': 765, 'latency_ms': 153}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 85, 'ram': 34, 'requests_per_sec': 136, 'latency_ms': 75}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 59}
+METRICS: {'cpu': 50, 'ram': 27, 'requests_per_sec': 178, 'latency_ms': 95}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 54, 'ram': 89, 'requests_per_sec': 667, 'latency_ms': 357}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 62}
+METRICS: {'cpu': 44, 'ram': 45, 'requests_per_sec': 322, 'latency_ms': 51}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 95, 'ram': 31, 'requests_per_sec': 782, 'latency_ms': 52}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 63}
+METRICS: {'cpu': 91, 'ram': 80, 'requests_per_sec': 612, 'latency_ms': 210}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 64}
+METRICS: {'cpu': 10, 'ram': 46, 'requests_per_sec': 224, 'latency_ms': 322}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 65}
+METRICS: {'cpu': 37, 'ram': 24, 'requests_per_sec': 621, 'latency_ms': 395}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 66}
+METRICS: {'cpu': 70, 'ram': 28, 'requests_per_sec': 468, 'latency_ms': 276}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 13, 'ram': 47, 'requests_per_sec': 299, 'latency_ms': 377}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 67}
+METRICS: {'cpu': 35, 'ram': 41, 'requests_per_sec': 40, 'latency_ms': 364}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 68}
+METRICS: {'cpu': 46, 'ram': 83, 'requests_per_sec': 372, 'latency_ms': 191}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 45, 'ram': 47, 'requests_per_sec': 331, 'latency_ms': 335}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 69}
+METRICS: {'cpu': 22, 'ram': 21, 'requests_per_sec': 102, 'latency_ms': 233}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 72, 'ram': 43, 'requests_per_sec': 24, 'latency_ms': 129}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 25, 'ram': 74, 'requests_per_sec': 721, 'latency_ms': 207}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 16, 'ram': 29, 'requests_per_sec': 335, 'latency_ms': 164}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 66, 'ram': 48, 'requests_per_sec': 466, 'latency_ms': 245}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 10, 'ram': 77, 'requests_per_sec': 42, 'latency_ms': 171}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 68}
+METRICS: {'cpu': 69, 'ram': 47, 'requests_per_sec': 186, 'latency_ms': 309}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 69}
+METRICS: {'cpu': 10, 'ram': 26, 'requests_per_sec': 544, 'latency_ms': 383}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 70}
+METRICS: {'cpu': 67, 'ram': 85, 'requests_per_sec': 181, 'latency_ms': 269}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 77, 'ram': 20, 'requests_per_sec': 547, 'latency_ms': 244}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 88, 'ram': 50, 'requests_per_sec': 45, 'latency_ms': 243}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 44, 'ram': 31, 'requests_per_sec': 397, 'latency_ms': 141}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 24, 'ram': 20, 'requests_per_sec': 85, 'latency_ms': 62}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 69}
+METRICS: {'cpu': 46, 'ram': 52, 'requests_per_sec': 279, 'latency_ms': 137}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 92, 'ram': 28, 'requests_per_sec': 32, 'latency_ms': 315}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 70}
+METRICS: {'cpu': 82, 'ram': 56, 'requests_per_sec': 270, 'latency_ms': 382}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 71}
+METRICS: {'cpu': 39, 'ram': 26, 'requests_per_sec': 662, 'latency_ms': 364}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 72}
+METRICS: {'cpu': 41, 'ram': 54, 'requests_per_sec': 26, 'latency_ms': 392}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 73}
+METRICS: {'cpu': 52, 'ram': 58, 'requests_per_sec': 519, 'latency_ms': 93}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 19, 'ram': 48, 'requests_per_sec': 224, 'latency_ms': 141}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 76, 'ram': 46, 'requests_per_sec': 792, 'latency_ms': 168}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 94, 'ram': 27, 'requests_per_sec': 14, 'latency_ms': 80}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 74}
+METRICS: {'cpu': 36, 'ram': 29, 'requests_per_sec': 570, 'latency_ms': 131}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 49, 'ram': 24, 'requests_per_sec': 61, 'latency_ms': 234}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 55, 'ram': 49, 'requests_per_sec': 571, 'latency_ms': 294}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 90, 'ram': 88, 'requests_per_sec': 745, 'latency_ms': 388}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 75}
+METRICS: {'cpu': 55, 'ram': 65, 'requests_per_sec': 255, 'latency_ms': 103}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 28, 'ram': 26, 'requests_per_sec': 472, 'latency_ms': 394}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 76}
+METRICS: {'cpu': 52, 'ram': 32, 'requests_per_sec': 515, 'latency_ms': 183}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 16, 'ram': 81, 'requests_per_sec': 382, 'latency_ms': 258}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 94, 'ram': 49, 'requests_per_sec': 101, 'latency_ms': 304}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 77}
+METRICS: {'cpu': 13, 'ram': 38, 'requests_per_sec': 171, 'latency_ms': 131}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 54, 'ram': 84, 'requests_per_sec': 564, 'latency_ms': 185}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 60, 'ram': 50, 'requests_per_sec': 127, 'latency_ms': 159}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 93, 'ram': 35, 'requests_per_sec': 164, 'latency_ms': 289}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 49, 'ram': 79, 'requests_per_sec': 292, 'latency_ms': 228}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 23, 'ram': 70, 'requests_per_sec': 65, 'latency_ms': 123}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 76}
+METRICS: {'cpu': 59, 'ram': 72, 'requests_per_sec': 490, 'latency_ms': 234}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 90, 'ram': 22, 'requests_per_sec': 407, 'latency_ms': 352}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 77}
+METRICS: {'cpu': 20, 'ram': 82, 'requests_per_sec': 268, 'latency_ms': 84}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 67, 'ram': 86, 'requests_per_sec': 153, 'latency_ms': 176}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 20, 'ram': 70, 'requests_per_sec': 424, 'latency_ms': 222}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 90, 'ram': 46, 'requests_per_sec': 19, 'latency_ms': 129}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 78}
+METRICS: {'cpu': 92, 'ram': 20, 'requests_per_sec': 401, 'latency_ms': 377}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 79}
+METRICS: {'cpu': 23, 'ram': 76, 'requests_per_sec': 137, 'latency_ms': 237}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 92, 'ram': 60, 'requests_per_sec': 156, 'latency_ms': 199}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 80}
+METRICS: {'cpu': 44, 'ram': 54, 'requests_per_sec': 238, 'latency_ms': 308}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 81}
+METRICS: {'cpu': 13, 'ram': 66, 'requests_per_sec': 798, 'latency_ms': 356}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 82}
+METRICS: {'cpu': 77, 'ram': 21, 'requests_per_sec': 699, 'latency_ms': 379}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 83}
+METRICS: {'cpu': 52, 'ram': 22, 'requests_per_sec': 585, 'latency_ms': 110}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 41, 'ram': 50, 'requests_per_sec': 703, 'latency_ms': 170}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 79, 'ram': 79, 'requests_per_sec': 291, 'latency_ms': 52}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 54, 'ram': 40, 'requests_per_sec': 543, 'latency_ms': 324}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 84}
+METRICS: {'cpu': 83, 'ram': 31, 'requests_per_sec': 15, 'latency_ms': 390}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 85}
+METRICS: {'cpu': 22, 'ram': 48, 'requests_per_sec': 111, 'latency_ms': 125}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 53, 'ram': 88, 'requests_per_sec': 259, 'latency_ms': 116}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 10, 'ram': 85, 'requests_per_sec': 715, 'latency_ms': 271}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 93, 'ram': 43, 'requests_per_sec': 462, 'latency_ms': 62}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 86}
+METRICS: {'cpu': 64, 'ram': 68, 'requests_per_sec': 561, 'latency_ms': 374}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 87}
+METRICS: {'cpu': 70, 'ram': 32, 'requests_per_sec': 149, 'latency_ms': 142}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 47, 'ram': 75, 'requests_per_sec': 227, 'latency_ms': 215}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 86, 'ram': 75, 'requests_per_sec': 164, 'latency_ms': 264}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 53, 'ram': 51, 'requests_per_sec': 799, 'latency_ms': 246}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 94, 'ram': 56, 'requests_per_sec': 288, 'latency_ms': 110}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 88}
+METRICS: {'cpu': 82, 'ram': 67, 'requests_per_sec': 480, 'latency_ms': 234}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 89}
+METRICS: {'cpu': 23, 'ram': 20, 'requests_per_sec': 552, 'latency_ms': 312}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 90}
+METRICS: {'cpu': 47, 'ram': 41, 'requests_per_sec': 748, 'latency_ms': 299}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 55, 'ram': 46, 'requests_per_sec': 611, 'latency_ms': 137}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 94, 'ram': 53, 'requests_per_sec': 132, 'latency_ms': 376}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 91}
+METRICS: {'cpu': 29, 'ram': 27, 'requests_per_sec': 785, 'latency_ms': 346}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 92}
+METRICS: {'cpu': 55, 'ram': 70, 'requests_per_sec': 73, 'latency_ms': 391}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 93}
+METRICS: {'cpu': 48, 'ram': 20, 'requests_per_sec': 411, 'latency_ms': 382}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 94}
+METRICS: {'cpu': 81, 'ram': 60, 'requests_per_sec': 600, 'latency_ms': 324}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 95}
+METRICS: {'cpu': 94, 'ram': 71, 'requests_per_sec': 202, 'latency_ms': 397}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 96}
+METRICS: {'cpu': 32, 'ram': 26, 'requests_per_sec': 561, 'latency_ms': 229}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 71, 'ram': 37, 'requests_per_sec': 154, 'latency_ms': 245}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 35, 'ram': 52, 'requests_per_sec': 611, 'latency_ms': 51}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 48, 'ram': 21, 'requests_per_sec': 356, 'latency_ms': 116}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 45, 'ram': 58, 'requests_per_sec': 711, 'latency_ms': 253}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 11, 'ram': 62, 'requests_per_sec': 406, 'latency_ms': 354}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 97}
+METRICS: {'cpu': 58, 'ram': 65, 'requests_per_sec': 740, 'latency_ms': 148}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 28, 'ram': 49, 'requests_per_sec': 484, 'latency_ms': 242}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 22, 'ram': 74, 'requests_per_sec': 86, 'latency_ms': 140}
+DECISION: down
+Called API for action=down, response={'status': 'ok', 'action': 'down', 'instances': 96}
+METRICS: {'cpu': 57, 'ram': 86, 'requests_per_sec': 197, 'latency_ms': 78}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 38, 'ram': 61, 'requests_per_sec': 82, 'latency_ms': 366}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 97}
+METRICS: {'cpu': 16, 'ram': 48, 'requests_per_sec': 61, 'latency_ms': 354}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 98}
+METRICS: {'cpu': 33, 'ram': 81, 'requests_per_sec': 382, 'latency_ms': 371}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 99}
+METRICS: {'cpu': 34, 'ram': 61, 'requests_per_sec': 652, 'latency_ms': 92}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 41, 'ram': 87, 'requests_per_sec': 403, 'latency_ms': 149}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 65, 'ram': 77, 'requests_per_sec': 604, 'latency_ms': 382}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 100}
+METRICS: {'cpu': 89, 'ram': 69, 'requests_per_sec': 740, 'latency_ms': 267}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 101}
+METRICS: {'cpu': 41, 'ram': 88, 'requests_per_sec': 311, 'latency_ms': 221}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 34, 'ram': 76, 'requests_per_sec': 33, 'latency_ms': 323}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 102}
+METRICS: {'cpu': 68, 'ram': 29, 'requests_per_sec': 66, 'latency_ms': 83}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 34, 'ram': 50, 'requests_per_sec': 328, 'latency_ms': 181}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 33, 'ram': 54, 'requests_per_sec': 651, 'latency_ms': 172}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 78, 'ram': 21, 'requests_per_sec': 426, 'latency_ms': 319}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 103}
+METRICS: {'cpu': 80, 'ram': 35, 'requests_per_sec': 518, 'latency_ms': 375}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 104}
+METRICS: {'cpu': 27, 'ram': 64, 'requests_per_sec': 53, 'latency_ms': 319}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 105}
+METRICS: {'cpu': 40, 'ram': 86, 'requests_per_sec': 726, 'latency_ms': 182}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 53, 'ram': 84, 'requests_per_sec': 701, 'latency_ms': 380}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 106}
+METRICS: {'cpu': 23, 'ram': 60, 'requests_per_sec': 791, 'latency_ms': 387}
+DECISION: up
+Called API for action=up, response={'status': 'ok', 'action': 'up', 'instances': 107}
+METRICS: {'cpu': 17, 'ram': 47, 'requests_per_sec': 660, 'latency_ms': 172}
+DECISION: none
+No action taken.
+METRICS: {'cpu': 17, 'ram': 80, 'requests_per_sec': 292, 'latency_ms': 198}
